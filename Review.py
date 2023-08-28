@@ -1,4 +1,4 @@
-Review:
+class Review:
     
     all_reviews = []
     
